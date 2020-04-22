@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/1/local_schema.xsd">
+	<game>
+		<name>Red Dead Redemption 2</name>
+		<genre>Жанр: action, adventure</genre>
+		<date>Дата выхода: 26 октября 2018 г.</date>
+		<rating>9.1</rating>
+	</game>
+	<game>
+		<name>God of War (2018)</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 20 апреля 2018 г.</date>
+		<rating>9.1</rating>
+	</game>
+	<game>
+		<name>Resident Evil 2 Remake</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 25 января 2019 г.</date>
+		<rating>9.0</rating>
+	</game>
+	<game>
+		<name>Divinity: Original Sin 2</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 14 сентября 2017 г.</date>
+		<rating>9.0</rating>
+	</game>
+	<game>
+		<name>Witcher 3: Wild Hunt - Complete Edition, The</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 15 октября 2019 г.</date>
+		<rating>9.0</rating>
+	</game>
+	<game>
+		<name>Black Mesa</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 5 марта 2020 г.</date>
+		<rating>8.9</rating>
+	</game>
+	<game>
+		<name>Divinity: Original Sin 2 - Definitive Edition</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 14 сентября 2017 г.</date>
+		<rating>8.8</rating>
+	</game>
+	<game>
+		<name>Ori and the Will of the Wisps</name>
+		<genre>Жанр: arcade</genre>
+		<date>Дата выхода: 11 марта 2020 г.</date>
+		<rating>8.7</rating>
+	</game>
+	<game>
+		<name>Mount &amp; Blade II: Bannerlord</name>
+		<genre>Жанр: action, rpg</genre>
+		<date>Дата выхода: 30 марта 2020 г.</date>
+		<rating>8.6</rating>
+	</game>
+	<game>
+		<name>Prey (2017)</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 5 мая 2017 г.</date>
+		<rating>8.6</rating>
+	</game>
+</all>
