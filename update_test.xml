@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/1/Desktop/global.xsd">
+	<game game_id="1">
+		<name>Red Dead Redemption 2</name>
+		<genre>Жанр: action, adventure</genre>
+		<date>Дата выхода: 26 октября 2018 г.</date>
+		<rating>10.0</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="2">
+		<name>God of War (2018)</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 20 апреля 2018 г.</date>
+		<rating>10.0</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="3">
+		<name>Resident Evil 2 Remake</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 25 января 2019 г.</date>
+		<rating>10.0</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="4">
+		<name>Divinity: Original Sin 2</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 14 сентября 2017 г.</date>
+		<rating>9.0</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="5">
+		<name>Witcher 3: Wild Hunt - Complete Edition, The</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 15 октября 2019 г.</date>
+		<rating>9.0</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="6">
+		<name>Black Mesa</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 5 марта 2020 г.</date>
+		<rating>8.9</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="7">
+		<name>Divinity: Original Sin 2 - Definitive Edition</name>
+		<genre>Жанр: rpg</genre>
+		<date>Дата выхода: 14 сентября 2017 г.</date>
+		<rating>8.8</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="8">
+		<name>Ori and the Will of the Wisps</name>
+		<genre>Жанр: arcade</genre>
+		<date>Дата выхода: 11 марта 2020 г.</date>
+		<rating>8.7</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="9">
+		<name>Mount &amp; Blade II: Bannerlord</name>
+		<genre>Жанр: action, rpg</genre>
+		<date>Дата выхода: 30 марта 2020 г.</date>
+		<rating>8.6</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+	<game game_id="10">
+		<name>Prey (2017)</name>
+		<genre>Жанр: action</genre>
+		<date>Дата выхода: 5 мая 2017 г.</date>
+		<rating>8.6</rating>
+		<reviews>
+			<review1>review1</review1>
+			<review2>review2</review2>
+			<review3>review3</review3>
+			<review4>review4</review4>
+			<review5>review5</review5>
+		</reviews>
+	</game>
+</all>
