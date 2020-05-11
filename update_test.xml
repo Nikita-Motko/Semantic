@@ -1,16 +1,16 @@
-<?xml version="1.0"?>
-<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/1/Desktop/global.xsd">
+<?xml version="1.0" ?>
+<all>
 	<game game_id="1">
 		<name>Red Dead Redemption 2</name>
 		<genre>Жанр: action, adventure</genre>
 		<date>Дата выхода: 26 октября 2018 г.</date>
 		<rating>10.0</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="2">
@@ -19,11 +19,11 @@
 		<date>Дата выхода: 20 апреля 2018 г.</date>
 		<rating>10.0</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="3">
@@ -32,11 +32,11 @@
 		<date>Дата выхода: 25 января 2019 г.</date>
 		<rating>10.0</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="4">
@@ -45,11 +45,11 @@
 		<date>Дата выхода: 14 сентября 2017 г.</date>
 		<rating>9.0</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="5">
@@ -58,11 +58,11 @@
 		<date>Дата выхода: 15 октября 2019 г.</date>
 		<rating>9.0</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="6">
@@ -71,11 +71,11 @@
 		<date>Дата выхода: 5 марта 2020 г.</date>
 		<rating>8.9</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="7">
@@ -84,11 +84,11 @@
 		<date>Дата выхода: 14 сентября 2017 г.</date>
 		<rating>8.8</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="8">
@@ -97,11 +97,11 @@
 		<date>Дата выхода: 11 марта 2020 г.</date>
 		<rating>8.7</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="9">
@@ -110,11 +110,11 @@
 		<date>Дата выхода: 30 марта 2020 г.</date>
 		<rating>8.6</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 	<game game_id="10">
@@ -123,11 +123,11 @@
 		<date>Дата выхода: 5 мая 2017 г.</date>
 		<rating>8.6</rating>
 		<reviews>
-			<review1>review1</review1>
-			<review2>review2</review2>
-			<review3>review3</review3>
-			<review4>review4</review4>
-			<review5>review5</review5>
+			<review>review1</review>
+			<review>review2</review>
+			<review>review3</review>
+			<review>review4</review>
+			<review>review5</review>
 		</reviews>
 	</game>
 </all>

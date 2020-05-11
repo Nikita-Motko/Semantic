@@ -18,11 +18,11 @@ def editing():
         q = q + 1
         game.set('game_id', str(q))
         publisher = ET.SubElement(game, 'reviews')
-        ET.SubElement(publisher, 'review1').text = 'review1'
-        ET.SubElement(publisher, 'review2').text = 'review2'
-        ET.SubElement(publisher, 'review3').text = 'review3'
-        ET.SubElement(publisher, 'review4').text = 'review4'
-        ET.SubElement(publisher, 'review5').text = 'review5'
+        ET.SubElement(publisher, 'review').text = 'review1'
+        ET.SubElement(publisher, 'review').text = 'review2'
+        ET.SubElement(publisher, 'review').text = 'review3'
+        ET.SubElement(publisher, 'review').text = 'review4'
+        ET.SubElement(publisher, 'review').text = 'review5'
         
     save_xml('update_test.xml', all)
 
